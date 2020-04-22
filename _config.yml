@@ -7,7 +7,7 @@ paginate: 5
 plugins: [jekyll-paginate]
 port: 4000
 safe: true
-url: https://lenkakrenkova.github.io/
+url: https://Lenkakr.github.io/
 author: Fábio Madeira
 
 # edit this section with your information
@@ -22,12 +22,12 @@ website: lenka-krenkova-b7b274104/
 website_full: linkedin.com/in/lenka-krenkova-b7b274104/
 github: /Lenkakr
 twitter: twitter
-tel: +358 2567183
-tel_full: tel:+358 2567183
+tel: +358 25 67 183
+tel_full: tel:+358 25 67 183
 google_maps: 'https://goo.gl/maps/p1Z9PAwK694eC2tT9'
 address:
   street: Suolakivenkatu 16
-  postcode: 00810
+  postcode: '00810'
   city: Helsinki
   country: Finland
 google_analytics: UA-69300817-1
