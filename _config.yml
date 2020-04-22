@@ -27,7 +27,7 @@ tel_full: tel:+358 2567183
 google_maps: 'https://goo.gl/maps/p1Z9PAwK694eC2tT9'
 address:
   street: Suolakivenkatu 16
-  postcode: 00810
+  postcode: '00810'
   city: Helsinki
   country: Finland
 google_analytics: UA-69300817-1
