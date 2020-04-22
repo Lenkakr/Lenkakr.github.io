@@ -7,7 +7,7 @@ paginate: 5
 plugins: [jekyll-paginate]
 port: 4000
 safe: true
-url: https://online-cv.github.io/
+url: https://lenkakrenkova.github.io/
 author: Fábio Madeira
 
 # edit this section with your information
@@ -19,7 +19,7 @@ name: Lenka Křenková
 email: l.krenkova.lenka@gmail.com
 email_full: mailto:l.krenkova.lenka@gmail.com
 website: linkedin.com/in/lenka-krenkova-b7b274104/
-website_full: https://linkedin.com/in/lenka-krenkova-b7b274104/
+website_full: lenka-krenkova-b7b274104
 github: /Lenkakr
 twitter: twitter
 tel: +358 2567183
